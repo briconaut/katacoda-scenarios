@@ -1,5 +1,2 @@
-#!/usr/bin/env bash
-
-if [[ ! -f com.gft.gitcourse.playground/pom.xml ]] ; then exit 1 ; fi
-
-echo "done"
+[ -f ~/demo/com.gft.gitcourse.playground/pom.xml ] && echo "done"
+[ -f ~/tutorial/demo/com.gft.gitcourse.playground/pom.xml ] && echo "done"

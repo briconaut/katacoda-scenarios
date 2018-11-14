@@ -7,21 +7,21 @@
     "steps": [
       {
         "title": "1) Create a git repository",
-        "text": "10.git-init.md",
-        "verify": "10.git-init.verify.sh"
+        "text": "010.git-init.md",
+        "verify": "010.git-init.verify.sh"
       },
       {
         "title": "2) Generate a maven projet.",
-        "text": "02.maven-generate.md",
-        "verify": "20.maven-generate.verify.sh"
+        "text": "020.maven-generate.md",
+        "verify": "020.maven-generate.verify.sh"
       }
     ],
     "intro": {
-      "text": "intro.md",
+      "text": "000.intro.md",
       "credits": ""
     },
     "finish": {
-      "text": "finish.md"
+      "text": "999.finish.md"
     }
   },
   "environment": {

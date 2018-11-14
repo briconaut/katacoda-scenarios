@@ -14,7 +14,7 @@
         "title": "2) Generate a maven projet.",
         "text": "02.maven-generate.md",
         "verify": "20.maven-generate.verify.sh"
-      },
+      }
     ],
     "intro": {
       "text": "intro.md",
